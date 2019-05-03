@@ -1,0 +1,235 @@
+[Global]
+CurrentProject=httpPushPlus.vpj
+[ProjectDates]
+httpPushPlus.vpj=20180515043212000
+[ActiveConfig]
+httpPushPlus.vpj=,Release
+[TreeExpansion2]
+-@ httpPushPlus.vpj
+  - Source Files
+    - data
+  - Header Files
+    - include
+  + Resource Files
+  + Bitmaps
+  + Other Files
+scroll:0
+[State]
+SCREEN: 1280 1024 91 94 1099 836 0 0 M 0 0 0 0 1586 778 0
+CWD: ../httpPushPlus_v1.1
+BUFFER: BN="HttpRequest.cpp"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=33554432 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=71 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.6878 CL=15 LE=0 CX=16 CY=22 WI=5 BI=19 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="data/NetworkCard.h"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=33554432 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=71 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.264 CL=25 LE=0 CX=26 CY=19 WI=5 BI=17 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="data/DeviceData.h"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=33554432 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=71 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.234 CL=5 LE=0 CX=6 CY=17 WI=5 BI=16 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="HttpRequest.h"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=33554432 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=71 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.571 CL=20 LE=0 CX=21 CY=20 WI=5 BI=15 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="data/DomainRuleNode.h"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=33554432 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=71 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.2171 CL=1 LE=0 CX=2 CY=0 WI=5 BI=27 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="data/DomainRuleNode.cpp"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=119603808 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=71 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.142 CL=18 LE=0 CX=19 CY=19 WI=5 BI=18 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="httpPushPlus.cpp"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=119603808 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=71 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.4540 CL=25 LE=0 CX=26 CY=22 WI=5 BI=24 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="check.h"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=52494432 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=71 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.36 CL=1 LE=0 CX=2 CY=4 WI=5 BI=23 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="/usr/include/net/ethernet.h"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=52494432 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.1507 CL=3 LE=0 CX=4 CY=18 WI=5 BI=21 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="/usr/include/openssl/dtls1.h"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=52494432 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.4759 CL=5 LE=0 CX=6 CY=18 WI=5 BI=22 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="include/common_type.h"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=52494432 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=71 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.416 CL=57 LE=0 CX=58 CY=17 WI=5 BI=25 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="PacketProcess.h"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=117441120 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=71 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.694 CL=30 LE=0 CX=31 CY=21 WI=5 BI=20 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="PacketProcess.cpp"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=119603808 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=71 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.16769 CL=22 LE=0 CX=23 CY=16 WI=5 BI=26 HT=0 HN=0 HF=0 HC=4
+WINDOW: 1 23 1584 754 0 0 N  WF=0 WT=11 ",,," DID=0
+BUFFER: BN="data/DomainRuleNode.cpp"
+VIEW: LN=.142 CL=18 LE=0 CX=18 CY=19 WI=117 BI=18 HT=0 HN=0 HF=0 HC=4
+WINDOW: 1 23 1584 754 0 0 N  WF=0 WT=4 ",,," DID=0
+BUFFER: BN="PacketProcess.cpp"
+VIEW: LN=.16769 CL=22 LE=0 CX=22 CY=16 WI=115 BI=26 HT=0 HN=0 HF=0 HC=4
+WINDOW: 1 23 1584 754 0 0 N  WF=0 WT=8 ",,," DID=0
+BUFFER: BN="data/DomainRuleNode.h"
+VIEW: LN=.2171 CL=1 LE=0 CX=2 CY=0 WI=113 BI=27 HT=0 HN=0 HF=0 HC=4
+WINDOW: 1 23 1584 754 0 0 N  WF=0 WT=13 ",,," DID=0
+BUFFER: BN="HttpRequest.h"
+VIEW: LN=.571 CL=20 LE=0 CX=21 CY=20 WI=111 BI=15 HT=0 HN=0 HF=0 HC=4
+WINDOW: 1 23 1580 649 0 0 N  WF=0 WT=10 ",,," DID=0
+BUFFER: BN="data/DeviceData.h"
+VIEW: LN=.234 CL=5 LE=0 CX=6 CY=17 WI=109 BI=16 HT=0 HN=0 HF=0 HC=4
+WINDOW: 1 23 1600 722 0 0 N  WF=0 WT=12 ",,," DID=0
+BUFFER: BN="data/NetworkCard.h"
+VIEW: LN=.264 CL=25 LE=0 CX=26 CY=19 WI=107 BI=17 HT=0 HN=0 HF=0 HC=4
+WINDOW: 1 23 1600 722 0 0 N  WF=0 WT=14 ",,," DID=0
+BUFFER: BN="HttpRequest.cpp"
+VIEW: LN=.6878 CL=15 LE=0 CX=16 CY=22 WI=105 BI=19 HT=0 HN=0 HF=0 HC=4
+WINDOW: 1 23 1584 754 0 0 N  WF=0 WT=3 ",,," DID=0
+BUFFER: BN="PacketProcess.h"
+VIEW: LN=.694 CL=30 LE=0 CX=30 CY=21 WI=103 BI=20 HT=0 HN=0 HF=0 HC=4
+WINDOW: 1 23 1584 754 0 0 N  WF=0 WT=6 ",,," DID=0
+BUFFER: BN="include/common_type.h"
+VIEW: LN=.416 CL=57 LE=0 CX=58 CY=17 WI=125 BI=25 HT=0 HN=0 HF=0 HC=4
+WINDOW: 1 23 1584 754 0 0 N  WF=0 WT=19 ",,," DID=0
+BUFFER: BN="/usr/include/openssl/dtls1.h"
+VIEW: LN=.4759 CL=5 LE=0 CX=6 CY=18 WI=123 BI=22 HT=0 HN=0 HF=0 HC=4
+WINDOW: 1 23 1584 754 0 0 N  WF=0 WT=20 ",,," DID=0
+BUFFER: BN="/usr/include/net/ethernet.h"
+VIEW: LN=.1507 CL=3 LE=0 CX=4 CY=18 WI=121 BI=21 HT=0 HN=0 HF=0 HC=4
+WINDOW: 1 23 1584 754 0 0 N  WF=0 WT=5 ",,," DID=0
+BUFFER: BN="check.h"
+VIEW: LN=.36 CL=1 LE=0 CX=2 CY=4 WI=119 BI=23 HT=0 HN=0 HF=0 HC=4
+WINDOW: 1 23 1584 754 0 0 N  WF=0 WT=2 ",,," DID=0
+BUFFER: BN="httpPushPlus.cpp"
+VIEW: LN=.4540 CL=25 LE=0 CX=25 CY=22 WI=127 BI=24 HT=0 HN=0 HF=0 HC=4
+MDISTATE: 1
+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
+FILEHIST: 9
+/usr/src/debug/glibc-2.12-2-gc4ccff1/stdio-common/printf.c
+check.h
+/usr/local/include/c++/5.5.0/bits/stl_pair.h
+data/DomainRuleNode.h
+/usr/include/netdb.h
+PacketProcess.h
+PacketProcess.cpp
+include/common_type.h
+httpPushPlus.cpp
+TBCLASS: 0 0
+DEBUG: 22 0 8 0 3 0 gdb
+1request.url0
+1sub_url0
+1*host0
+1*user_agent 0
+1s0
+1packet[-3]0
+1packet[-2]0
+1packet[-1]0
+1*user_agent0
+1*referer0
+1buf0
+1data.objectid0
+1CPacketProcess::analyzeHTTPdata.src_domain0
+1SaveInitEthg_dns_location_server0
+1g_routermac[0]0
+2dnsAnswer[12]0
+2dnsAnswer[13]0
+2dnsAnswer[14]0
+2dnsAnswer[15]0
+2hptr->h_addr_list[0]0
+2pData->src_domain_ip[0]0
+2hptr->h_addr_list[0][2]0
+00cleanuphttpPushPlus.cpp50710x000000000041fa0c0
+00setSenderhttpPushPlus.cpp48510x000000000041f9a80
+00SaveInitEthhttpPushPlus.cpp90510x0000000000420e470
+00SaveGetControlhttpPushPlus.cpp110510x0000000000421c9e0
+00CPacketProcessUdpProcessPacketProcess.cpp213610x00000000004113ae0
+00CPacketProcessUdpProcessPacketProcess.cpp224010x00000000004115a90
+00CPacketProcessBuildDnsAnswer_Type2PacketProcess.cpp231010x00000000004118250
+00GetHostThreadhttpPushPlus.cpp224110x00000000004258230
+printf
+strcpy
+std::*
+DEBUG2: 8
+00cleanuphttpPushPlus.cpp50710x000000000041fa0c045
+RUN_PRINTF("Systemcleanup...\n");
+
+if(0==g_cleanup_flag)
+{
+g_cleanup_flag=1;
+g_systemExit=1;
+
+usleep(10);
+
+#ifdefUSE_SPINLOCK
+00setSenderhttpPushPlus.cpp48510x000000000041f9a8055
+}
+
+if(pcap_compile(gSysRuntimeInfo[(*it)->m_ID].ghSender[i],&filter,"notip",1,PCAP_NETMASK_UNKNOWN)==-1)
+{
+RUN_PRINTF("setSender():Erroronpcap_compile\n");
+exit(-1);
+}
+
+//DEBUG_PRINTF("setSender()\n");
+}
+}
+00SaveInitEthhttpPushPlus.cpp90510x0000000000420e47055
+}
+}
+}
+elseif(strcmp(iter->name.GetString(),"dns_location_server")==0)
+{
+_dns_location_server=iter->value.GetString();
+//sscanf(_dns_location_server.c_str(),"%uhh.%uhh.%uhh.%uhh",&g_dns_location_server[3],&g_dns_location_server[2],&g_dns_location_server[1],&g_dns_location_server[0]);
+sscanf(_dns_location_server.c_str(),"%d.%d.%d.%d",&g_dns_location_server[0],&g_dns_location_server[1],&g_dns_location_server[2],&g_dns_location_server[3]);
+DEBUG_PRINTF("dns_location_server%s\n",_dns_location_server.c_str());
+}
+}
+00SaveGetControlhttpPushPlus.cpp110510x0000000000421c9e055
+if(document.HasMember("dns_data"))
+{
+constrapidjson::Value&data_json=document["dns_data"];
+for(rapidjson::Value::ConstValueIteratorv_iter=data_json.Begin();v_iter!=data_json.End();++v_iter)
+{
+CDnsData*data=newCDnsData();
+
+constrapidjson::Value&field=*v_iter;
+for(rapidjson::Value::ConstMemberIteratoriter=field.MemberBegin();iter!=field.MemberEnd();++iter)
+{
+//DEBUG_PRINTF("dns_data:[%s]\n",iter->name.GetString());
+00CPacketProcessUdpProcessPacketProcess.cpp213610x00000000004113ae045
+if(pDnsData->src_domain_ip[0]==0)
+{
+return;
+}
+RUN_PRINTF("label=%s\n",label);
+
+tmp++;
+qtype=ntohs(*(uint16_t*)tmp);
+}
+else
+00CPacketProcessUdpProcessPacketProcess.cpp224010x00000000004115a9025
+//dnsAnswer[42]=0x69;//IP
+////TypeAEnd
+BuildDnsAnswer_Type2(send_dnsh,dnsAnswer,pUdpHdr->len,pSendDataLength,pDnsData);
+
+//*pSendDataLength=ntohs(pUdpHdr->len)-8+27+16;//8:UDPHeader16:Answer
+//*pSendDataLength=ntohs(pUdpHdr->len)-8+16;//8:UDPHeader16:Answer
+ret:
+return;
+00CPacketProcessBuildDnsAnswer_Type2PacketProcess.cpp231010x0000000000411825055
+dnsAnswer[11]=0x04;//Datalength
+
+dnsAnswer[12]=g_dns_location_server[0];
+dnsAnswer[13]=g_dns_location_server[1];
+dnsAnswer[14]=g_dns_location_server[2];
+dnsAnswer[15]=g_dns_location_server[3];//IP
+//TypeAEnd
+
+//TypeABegin
+dnsAnswer[16]=0xC0;
+dnsAnswer[17]=0x0C;//域名Name
+00GetHostThreadhttpPushPlus.cpp224110x0000000000425823054
+continue;
+}
+
+structhostent*hptr;
+charstr[32];
+if((hptr=gethostbyname(it->first.c_str()))==NULL)
+{
+DEBUG_PRINTF("gethostbynameerrorforhost:%s\n",it->first.c_str());
+continue;
+}
